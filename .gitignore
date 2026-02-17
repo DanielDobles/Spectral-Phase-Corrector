@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+build/
+dist/
+
+# Audio Files (Test/Demo artifacts)
+*.wav
+*.mp3
+
+# Images (Analysis maps)
+*.png
+
+# Project specific ignores
+repaired_stereo.wav
+broken_stereo.wav
+analisis_fase_zduhac.png
+Zduhac_Boj_repaired.wav
